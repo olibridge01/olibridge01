@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-My name is Oli Bridge. I'm a Master's student at UCL studying machine learning. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+My name is Oli Bridge. I'm a Master's student at UCL studying machine learning.
 
 - 🌱 My research interests broadly include **reinforcement learning** and **probabilistic machine learning**.
 - 🔭 Currently working in the [Machine Intelligence Lab](https://www.machineintelligencelab.ai/) at UCL, researching **symmetries in graph reinforcement learning**.
