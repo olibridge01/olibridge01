@@ -1,10 +1,11 @@
 ## Hi there! 👋
 
-My name is Oli Bridge. I'm a Master's student at UCL studying machine learning.
+My name is Oli Bridge. I'm a Master's student at [UCL Computer Science](https://www.ucl.ac.uk/computer-science/) studying machine learning. Previously graduated with a BA/MSci from the University of Cambridge, where I researched path integral quantum dynamics in my final year at the [Yusuf Hamied Department of Chemistry](https://www.ch.cam.ac.uk/).
 
-- 🌱 My research interests broadly include **reinforcement learning** and **probabilistic machine learning**.
-- 🔭 Currently working in the [Machine Intelligence Lab](https://www.machineintelligencelab.ai/) at UCL, researching **symmetries in graph reinforcement learning**.
+- 🌱 My research interests broadly include **reinforcement learning** and **probabilistic machine learning**
+- 🔭 Currently working in the [Machine Intelligence Lab](https://www.machineintelligencelab.ai/) at UCL, researching **symmetries in graph reinforcement learning**
 - 📫 Reach me at: **olibridge@rocketmail.com**
+- 👨🏻‍🎓 My **[Google Scholar](https://scholar.google.com/citations?user=lbfdFq4AAAAJ&hl=en)**
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
