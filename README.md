@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! 👋👋
 
 My name is Oli Bridge. I'm a Master's student at [UCL Computer Science](https://www.ucl.ac.uk/computer-science/) studying machine learning. I previously graduated with a BA/MSci from the University of Cambridge, where I researched path integral quantum dynamics in my final year at the [Yusuf Hamied Department of Chemistry](https://www.ch.cam.ac.uk/).
 
