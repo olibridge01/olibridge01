@@ -19,6 +19,16 @@ My name is Oli Bridge. I'm a Master's student at [UCL Computer Science](https://
 
 ## Featured Projects 💻
 
+### [TeXOCR](https://github.com/olibridge01/TeXOCR)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7cfbc643-ee16-4295-8adf-897ffd8c04ef" width="41.2%" />
+  <img src="https://github.com/user-attachments/assets/6f268b72-3566-4a04-875a-9ad925bdb22c" width="57%" />
+</p>
+
+**TeXOCR** is an Optical Character Recognition (OCR) model for converting images of equations into LaTeX code. This project contains a fully built transformer-based OCR model, along with a FastAPI web application to showcases its abilities.
+
+
 ### [DeepRL](https://github.com/olibridge01/DeepRL)
 
 <p align="center">
