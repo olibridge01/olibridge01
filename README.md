@@ -15,6 +15,11 @@ My name is Oli Bridge. I'm a Master's student at [UCL Computer Science](https://
 ![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 ## Featured Projects 💻
@@ -23,10 +28,10 @@ My name is Oli Bridge. I'm a Master's student at [UCL Computer Science](https://
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7cfbc643-ee16-4295-8adf-897ffd8c04ef" width="41.2%" />
-  <img src="https://github.com/user-attachments/assets/6f268b72-3566-4a04-875a-9ad925bdb22c" width="57%" />
+  <img src="https://github.com/user-attachments/assets/c5f1184c-822a-4864-9b80-d76e5563e1fe" width="57%" />
 </p>
 
-**TeXOCR** is an Optical Character Recognition (OCR) model for converting images of equations into LaTeX code. This project contains a fully built transformer-based OCR model, along with a FastAPI web application to showcases its abilities.
+**TeXOCR** is an [Optical Character Recognition (OCR)](https://en.wikipedia.org/wiki/Optical_character_recognition) model for converting images of equations into LaTeX code. This project contains a fully built transformer-based OCR model, along with a FastAPI web application to showcases its abilities.
 
 
 ### [DeepRL](https://github.com/olibridge01/DeepRL)
@@ -53,7 +58,7 @@ My name is Oli Bridge. I'm a Master's student at [UCL Computer Science](https://
   <img src="https://github.com/olibridge01/DeepRL/assets/86416298/858500d7-047d-4192-8f17-f57d237ca5da" width="49.5%" />
 </p>
 
-**MaskedImageModelling** is a **PyTorch** implementation of a self-supervised learning framework to pre-train a model for an image segmentation task. A [VisionTransformer](https://arxiv.org/abs/2010.11929) is pre-trained by learning to reconstruct partially masked images, and fine-tuned on the [Oxford-IIIT Pets](https://www.robots.ox.ac.uk/~vgg/data/pets/) dataset for segmentation.
+**MaskedImageModelling** is a **PyTorch** implementation of a self-supervised learning framework to pre-train a model for an image segmentation task. A [Vision Transformer](https://arxiv.org/abs/2010.11929) is pre-trained by learning to reconstruct partially masked images, and fine-tuned on the [Oxford-IIIT Pets](https://www.robots.ox.ac.uk/~vgg/data/pets/) dataset for segmentation.
 
 
 
